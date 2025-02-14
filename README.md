@@ -1,7 +1,7 @@
 ### Eai! Eu sou o Nicolas Duarte 🤙
 
 <br>
-<img src="https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif">
+<img src=[https://media.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif">
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__duuarte__/)
